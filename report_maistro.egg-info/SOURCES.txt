@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+report_maistro.egg-info/PKG-INFO
+report_maistro.egg-info/SOURCES.txt
+report_maistro.egg-info/dependency_links.txt
+report_maistro.egg-info/requires.txt
+report_maistro.egg-info/top_level.txt

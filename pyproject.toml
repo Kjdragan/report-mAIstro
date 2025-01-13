@@ -1,0 +1,18 @@
+[project]
+name = "report-maistro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain-anthropic>=0.3.1",
+    "langchain-community>=0.3.14",
+    "langchain-core>=0.3.29",
+    "langchain-openai>=0.3.0",
+    "langgraph>=0.2.62",
+    "langgraph-cli>=0.1.65",
+    "langgraph-sdk>=0.1.51",
+    "langsmith>=0.2.10",
+    "notebook>=7.3.2",
+    "tavily-python>=0.5.0",
+]
